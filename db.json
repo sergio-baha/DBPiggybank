@@ -16,5 +16,11 @@
     { "safeAmount": "900000", "safeConcept": "Para la moto", "safeDate": "11/06/2020"},
     { "safeAmount": "50000", "safeConcept": "Para un pollito", "safeDate": "11/07/2020"},
     { "safeAmount": "100000", "safeConcept": "Para la salida", "safeDate": "11/08/2020"}
+  ],"payments": [
+   	{ "paymentConcept": "Pago Luz", "paymentAmount": "100000"},
+	{ "paymentConcept": "Pago Agua", "paymentAmount": "120000"},
+	{ "paymentConcept": "Pago Internet", "paymentAmount": "125000"},
+	{ "paymentConcept": "Pago Gas", "paymentAmount": "80000"},
+	{ "paymentConcept": "Pago Impuesto", "paymentAmount": "150000"}   
   ]
 }
