@@ -29,6 +29,6 @@
 	  { "sendPiggiBanker": "Ian Murcia", "sendAmount": "100000", "sendDate": "9/01/2020"},
 	  { "sendPiggiBanker": "Santiago Chona", "sendAmount": "96000", "sendDate": "9/09/2020"},
 	  { "sendPiggiBanker": "Steven Herrera", "sendAmount": "25000", "sendDate": "11/07/2020"},
-	  { "sendPiggiBanker": "Carlos Ayala", "sendAmount": "200000", "sendDate": "25/06/2020"},
-	  ]
+	  { "sendPiggiBanker": "Carlos Ayala", "sendAmount": "200000", "sendDate": "25/06/2020"}
+  ]
 }
