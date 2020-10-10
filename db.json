@@ -22,5 +22,12 @@
 	{ "paymentConcept": "Pago Internet", "paymentAmount": "125000"},
 	{ "paymentConcept": "Pago Gas", "paymentAmount": "80000"},
 	{ "paymentConcept": "Pago Impuesto", "paymentAmount": "150000"}   
-  ]
+  ], "send": [
+  	  { "sendPiggiBanker": "Sergio Bahamon", "sendAmount": "10000", "sendDate": "11/04/2020"},
+ 	 { "sendPiggiBanker": "Brayan Barrera", "sendAmount": "94000", "sendDate": "17/09/2020"},
+	{ "sendPiggiBanker": "Andres Guacheta", "sendAmount": "3200", "sendDate": "3/11/2020"},
+	  { "sendPiggiBanker": "Ian Murcia", "sendAmount": "100000", "sendDate": "9/01/2020"},
+	  { "sendPiggiBanker": "Santiago Chona", "sendAmount": "96000", "sendDate": "9/09/2020"},
+	  { "sendPiggiBanker": "Steven Herrera", "sendAmount": "25000", "sendDate": "11/07/2020"},
+	  { "sendPiggiBanker": "Carlos Ayala", "sendAmount": "200000", "sendDate": "25/06/2020"},
 }
