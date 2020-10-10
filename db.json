@@ -30,5 +30,13 @@
 	  { "sendPiggiBanker": "Santiago Chona", "sendAmount": "96000", "sendDate": "9/09/2020"},
 	  { "sendPiggiBanker": "Steven Herrera", "sendAmount": "25000", "sendDate": "11/07/2020"},
 	  { "sendPiggiBanker": "Carlos Ayala", "sendAmount": "200000", "sendDate": "25/06/2020"}
+  ], "obligation": [
+  	  { "obligationConcept": "Pago Luz", "obligationAmount": "10000", "obligationDate": "11/04/2020"},
+ 	  { "obligationConcept": "Pago Agua", "obligationAmount": "94000", "obligationDate": "17/09/2020"},
+	  { "obligationConcept": "Pago Internet", "obligationAmount": "3200", "obligationDate": "3/11/2020"},
+	  { "obligationConcept": "Pago Gas", "obligationAmount": "100000", "obligationDate": "9/01/2020"},
+	  { "obligationConcept": "Pago Impuesto", "obligationAmount": "96000", "obligationDate": "9/09/2020"},
+	  { "obligationConcept": "Pago Television", "obligationAmount": "25000", "obligationDate": "11/07/2020"},
+	  { "obligationConcept": "Pago Internet", "obligationAmount": "200000", "obligationDate": "25/06/2020"}
   ]
 }
